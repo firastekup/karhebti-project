@@ -4,6 +4,143 @@
         <item>Corolla</item>
         <item>Camry</item>
         <item>Rav4</item>
+        <item>Yaris</item>
+        <item>Highlander</item>
+    </string-array>
+
+    <!-- Modèles pour Honda -->
+    <string-array name="honda_models">
+        <item>Accord</item>
+        <item>Civic</item>
+        <item>CR-V</item>
+        <item>Fit</item>
+        <item>Pilot</item>
+    </string-array>
+
+    <!-- Modèles pour Ford -->
+    <string-array name="ford_models">
+        <item>Mustang</item>
+        <item>Fusion</item>
+        <item>Escape</item>
+        <item>Explorer</item>
+        <item>F-150</item>
+    </string-array>
+
+    <!-- Modèles pour Chevrolet -->
+    <string-array name="chevrolet_models">
+        <item>Malibu</item>
+        <item>Equinox</item>
+        <item>Traverse</item>
+        <item>Silverado</item>
+        <item>Camaro</item>
+    </string-array>
+
+    <!-- Modèles pour Nissan -->
+    <string-array name="nissan_models">
+        <item>Altima</item>
+        <item>Sentra</item>
+        <item>Rogue</item>
+        <item>Pathfinder</item>
+        <item>Maxima</item>
+    </string-array>
+
+    <!-- Modèles pour BMW -->
+    <string-array name="bmw_models">
+        <item>3 Series</item>
+        <item>5 Series</item>
+        <item>X3</item>
+        <item>X5</item>
+        <item>7 Series</item>
+    </string-array>
+
+    <!-- Modèles pour Audi -->
+    <string-array name="audi_models">
+        <item>A4</item>
+        <item>A3</item>
+        <item>Q5</item>
+        <item>A6</item>
+        <item>Q7</item>
+    </string-array>
+
+    <!-- Modèles pour Mercedes-Benz -->
+    <string-array name="mercedes_benz_models">
+        <item>C-Class</item>
+        <item>E-Class</item>
+        <item>GLC</item>
+        <item>S-Class</item>
+        <item>GLE</item>
+    </string-array>
+
+    <!-- Modèles pour Hyundai -->
+    <string-array name="hyundai_models">
+        <item>Elantra</item>
+        <item>Tucson</item>
+        <item>Sonata</item>
+        <item>Kona</item>
+        <item>Santa Fe</item>
+    </string-array>
+
+    <!-- Modèles pour Kia -->
+    <string-array name="kia_models">
+        <item>Sorento</item>
+        <item>Soul</item>
+        <item>Optima</item>
+        <item>Fort</item>
+        <item>Sportage</item>
+    </string-array>
+
+    <!-- Modèles pour Volkswagen -->
+    <string-array name="volkswagen_models">
+        <item>Jetta</item>
+        <item>Passat</item>
+        <item>Tiguan</item>
+        <item>Golf</item>
+        <item>Atlas</item>
+    </string-array>
+
+    <!-- Modèles pour Subaru -->
+    <string-array name="subaru_models">
+        <item>Outback</item>
+        <item>Forester</item>
+        <item>Legacy</item>
+        <item>Crosstrek</item>
+        <item>Impreza</item>
+    </string-array>
+
+    <!-- Modèles pour Mazda -->
+    <string-array name="mazda_models">
+        <item>3</item>
+        <item>6</item>
+        <item>CX-5</item>
+        <item>CX-9</item>
+        <item>CX-3</item>
+    </string-array>
+
+    <!-- Modèles pour Lexus -->
+    <string-array name="lexus_models">
+        <item>IS</item>
+        <item>ES</item>
+        <item>UX</item>
+        <item>RX</item>
+        <item>NX</item>
+    </string-array>
+
+    <!-- Modèles pour Volvo -->
+    <string-array name="volvo_models">
+        <item>S60</item>
+        <item>S90</item>
+        <item>XC40</item>
+        <item>XC60</item>
+        <item>XC90</item>
+    </string-array>
+
+    <!-- Modèles pour Jeep -->
+    <string-array name="jeep_models">
+        <item>Cherokee</item>
+        <item>Wrangler</item>
+        <item>Grand Cherokee</item>
+        <item>Compass</item>
+        <item>Renegade</item>
     </string-array>
     <!-- Ajoutez les autres ressources pour les modèles de voitures d'autres marques si nécessaire -->
 </resources>
