@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="toyota_models">
+        <item>Corolla</item>
+        <item>Camry</item>
+        <item>Rav4</item>
+    </string-array>
+    <!-- Ajoutez les autres ressources pour les modèles de voitures d'autres marques si nécessaire -->
+</resources>

@@ -1,3 +1,40 @@
-<resources>
-    <string name="app_name">Karhebti</string>
-</resources>
+
+
+    <resources>
+        <string name="app_name">Karhebti</string>
+
+        <string-array name="car_brands">
+            <item>Toyota</item>
+            <item>Honda</item>
+            <item>Ford</item>
+            <item>Chevrolet</item>
+            <item>Nissan</item>
+            <item>BMW</item>
+            <item>Audi</item>
+            <item>Mercedes-Benz</item>
+            <item>Hyundai</item>
+            <item>Kia</item>
+            <item>Volkswagen</item>
+            <item>Subaru</item>
+            <item>Mazda</item>
+            <item>Lexus</item>
+            <item>Volvo</item>
+            <item>Jeep</item>
+            <item>Land Rover</item>
+            <item>Peugeot</item>
+            <item>Renault</item>
+            <item>Skoda</item>
+            <item>Seat</item>
+            <item>Mini</item>
+            <item>Tesla</item>
+            <item>Ferrari</item>
+            <item>Lamborghini</item>
+            <item>Porsche</item>
+            <item>Jaguar</item>
+            <item>Alfa Romeo</item>
+            <item>Maserati</item>
+            <item>Bentley</item>
+            <item>Rolls-Royce</item>
+        </string-array>
+    </resources>
+
